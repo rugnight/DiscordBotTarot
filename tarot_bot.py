@@ -1,40 +1,38 @@
+import discord
+import json
 import os
 import random
-import discord
-from dotenv import load_dotenv
 from discord import Intents
+from discord.ext import commands
+from dotenv import load_dotenv
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-intents = Intents.default()
-intents.messages = True
+intents = discord.Intents.default()
 intents.message_content = True
-client = discord.Client(intents=intents)
 
-tarot_cards = [
-    # ここにタロットカードのリストを追加してください。
-    "The Fool", "The Magician", "The High Priestess", "The Empress", "The Emperor",
-    "The Hierophant", "The Lovers", "The Chariot", "Strength", "The Hermit",
-    "Wheel of Fortune", "Justice", "The Hanged Man", "Death", "Temperance",
-    "The Devil", "The Tower", "The Star", "The Moon", "The Sun", "Judgement",
-    "The World"
-]
+bot = commands.Bot(command_prefix="!", intents=intents)
 
-@client.event
+@bot.event
 async def on_ready():
-    print(f'{client.user} has connected to Discord!')
+    print(f"{bot.user} has connected to Discord!")
 
-@client.event
-async def on_message(message):
-    print(message)
-    #print(f'Message received from {message.author}: {message.content} (Type: {message.type})')  # メッセージタイプの出力を追加
-    if message.author == client.user or message.type != discord.MessageType.default:  # メッセージタイプのチェックを追加
-        return
+@bot.command(name="tarot")
+async def tarot(ctx):
+    with open("tarot_cards.json", "r", encoding="utf-8") as f:
+        cards = json.load(f)
 
-    if message.content.lower() == '!tarot':
-        card = random.choice(tarot_cards)
-        response = f'Your tarot card is: {card}'
-        await message.channel.send(response)
+    selected_card = random.choice(cards)
 
-client.run(TOKEN)
+    embed = discord.Embed(title=selected_card["name"], description=selected_card["description"], color=0x00ff00)
+    embed.set_image(url=selected_card["image_url"])
+
+    await ctx.send(embed=embed)
+
+bot.run(TOKEN)
+
+
+
+
+
