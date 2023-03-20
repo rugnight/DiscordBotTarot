@@ -2,112 +2,112 @@
     {
         "name": "0 - 愚者",
         "description": "愚者は新たな始まり、未来への信頼、経験不足、予期しないこと、初心者の幸運、即興、そして宇宙を信じることを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/103px-RWS_Tarot_00_Fool.jpg"
     },
     {
         "name": "1 - 魔術師",
         "description": "魔術師は創造力、意志力、技能、自己主張、そしてリーダーシップを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_01_Magician.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RWS_Tarot_01_Magician.jpg/102px-RWS_Tarot_01_Magician.jpg"
     },
     {
         "name": "2 - 女教皇",
         "description": "女教皇は直感、神秘主義、無意識の力、知識と理解、そして秘密を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/RWS_Tarot_02_High_Priestess.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RWS_Tarot_01_Magician.jpg/102px-RWS_Tarot_01_Magician.jpg"
     },
     {
         "name": "3 - 女帝",
         "description": "女帝は豊かさ、母性、肥沃さ、自然、保護、そして感覚的な愛を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RWS_Tarot_03_Empress.jpg/477px-RWS_Tarot_03_Empress.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/RWS_Tarot_03_Empress.jpg/104px-RWS_Tarot_03_Empress.jpg"
     },
     {
         "name": "4 - 皇帝",
         "description": "皇帝は権威、組織、指導力、規律、保護、安定、そして父性を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/105px-RWS_Tarot_04_Emperor.jpg"
     },
     {
         "name": "5 - 教皇",
         "description": "教皇は教育、信仰、慈善、伝統、信仰、助言、そして精神的指導を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/RWS_Tarot_05_Hierophant.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RWS_Tarot_05_Hierophant.jpg/103px-RWS_Tarot_05_Hierophant.jpg"
     },
     {
         "name": "6 - 恋人",
         "description": "恋人は選択、関係、愛情、調和、パートナーシップ、美、そして魅力を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RWS-06-thelovers.jpg/108px-RWS-06-thelovers.jpg"
     },
     {
         "name": "7 - 戦車",
         "description": "戦車は勝利、意志力、自制心、自己主張、決定力、そして戦いを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RWS_Tarot_07_Chariot.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RWS_Tarot_07_Chariot.jpg/102px-RWS_Tarot_07_Chariot.jpg"
     },
     {
         "name": "8 - 力",
         "description": "力は勇気、自信、内なる力、情熱、忍耐、そして自己制御を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/RWS_Tarot_08_Strength.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RWS_Tarot_08_Strength.jpg/100px-RWS_Tarot_08_Strength.jpg"
     },
     {
         "name": "9 - 隠者",
         "description": "隠者は内省、瞑想、知恵、慎重さ、そして独りでいることを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/RWS_Tarot_09_Hermit.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/103px-RWS_Tarot_09_Hermit.jpg"
     },
     {
         "name": "10 - 運命の輪",
         "description": "運命の輪は変化、サイクル、運命、幸運、そしてタイミングを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_10_Wheel_of_Fortune.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg/104px-RWS_Tarot_10_Wheel_of_Fortune.jpg"
     },
     {
         "name": "11 - 正義",
         "description": "正義は誠実さ、公平、真実、法律、因果応報、そしてバランスを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/RWS_Tarot_11_Justice.jpg/103px-RWS_Tarot_11_Justice.jpg"
     },
     {
         "name": "12 - 吊るされた男",
         "description": "吊るされた男は犠牲、解放、展望の変化、内省、そして新たな視点を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RWS_Tarot_12_Hanged_Man.jpg/102px-RWS_Tarot_12_Hanged_Man.jpg"
     },
     {
         "name": "13 - 死神",
         "description": "死神は終焉、変容、再生、新たな始まり、そして無常を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_13_Death.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/RWS_Tarot_13_Death.jpg/102px-RWS_Tarot_13_Death.jpg"
     },
     {
         "name": "14 - 節制",
         "description": "節制は調和、バランス、節制、緩和、そして矛盾を克服することを象徴しています。",
 
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RWS_Tarot_14_Temperance.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RWS_Tarot_14_Temperance.jpg/104px-RWS_Tarot_14_Temperance.jpg"
     },
     {
         "name": "15 - 悪魔",
         "description": "悪魔は誘惑、束縛、自己破壊的な行動、欲望、および物質主義を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/RWS_Tarot_15_Devil.jpg/103px-RWS_Tarot_15_Devil.jpg"
     },
     {
         "name": "16 - 塔",
         "description": "塔は突然の変化、破壊、危機、解放、そして真実の明らかになることを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RWS_Tarot_16_Tower.jpg/105px-RWS_Tarot_16_Tower.jpg"
     },
     {
         "name": "17 - 星",
         "description": "星は希望、霊感、信頼、慈善、夢、そして神秘を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/RWS_Tarot_17_Star.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/RWS_Tarot_17_Star.jpg/104px-RWS_Tarot_17_Star.jpg"
     },
     {
         "name": "18 - 月",
         "description": "月は直感、夢、幻想、不安、無意識、そして隠された敵を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RWS_Tarot_18_Moon.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/RWS_Tarot_18_Moon.jpg/102px-RWS_Tarot_18_Moon.jpg"
     },
     {
         "name": "19 - 太陽",
         "description": "太陽は喜び、成功、満足、幸福、繁栄、そしてエネルギーを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RWS_Tarot_19_Sun.jpg/104px-RWS_Tarot_19_Sun.jpg"
     },
     {
         "name": "20 - 審判",
         "description": "審判は復活、更新、浄化、運命、そして魂の目覚めを象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/RWS_Tarot_20_Judgement.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RWS_Tarot_20_Judgement.jpg/104px-RWS_Tarot_20_Judgement.jpg"
     },
     {
         "name": "21 - 世界",
         "description": "世界は完成、統合、達成、旅行、そして宇宙的な意識を象徴しています。",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/RWS_Tarot_21_World.jpg"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RWS_Tarot_21_World.jpg/103px-RWS_Tarot_21_World.jpg"
     }
 ]
